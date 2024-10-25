@@ -1,4 +1,12 @@
+<div align="center">
+
+<img src="path/to/your/ArachnidLogo.png" alt="Arachnid Logo" width="200">
+
 # Arachnid
+
+**A Powerful and Efficient Asynchronous Web Crawler**
+
+</div>
 
 Arachnid is a powerful and efficient web crawler built using Python's `asyncio` library for asynchronous operations. It's designed to explore websites thoroughly, gathering valuable information and providing insightful reports.
 
