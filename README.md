@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="path/to/your/ArachnidLogo.png" alt="Arachnid Logo" width="200">
+<img src="https://github.com/LifelagCheats/Arachnid/blob/main/Images/ArachnidLogo.png" alt="Arachnid Logo" width="200">
 
 # Arachnid
 
