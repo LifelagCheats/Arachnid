@@ -35,16 +35,24 @@ Arachnid is a powerful and efficient web crawler built using Python's `asyncio` 
 ## Installation
 
 1. **Create a virtual machine (optional, but recommended)**
+  For linux/MacOS:
+
   ```bash
   python -m venv venv
-  source venv/bin/activate for windows venv\bin\activate
+  source venv/bin/activate
+  ```
+  For Windows:
+  
+  ```bash
+  python -m venv venv
+  venv\bin\activate
   ```
 
 
 3. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/arachnid.git
+   git clone https://github.com/LifelagCheats/Arachnid.git
    cd arachnid
    pip install -r requirements.txt
    python Arachnid.py
